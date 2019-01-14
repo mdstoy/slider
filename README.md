@@ -13,7 +13,7 @@ gradle build
 次にWebアプリを起動してください。
 
 ```
-java -jar buils/libs/slider.jar
+java -jar build/libs/slider.jar
 ```
 
 Android端末で `http://<ホストマシンのIPアドレス>:8080/` を開いてください。
